@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; background:#f0f0f0; }
+.container { max-width: 400px; margin: 50px auto; background:#fff; padding:20px; border-radius:10px; }
+    input { width: 70%; padding: 8px; }
+    button { padding: 8px 12px; margin-left:5px; }
+    ul { list-style: none; padding:0; }
+    li { background:#eee; margin:5px 0; padding:10px; border-radius:5px; display:flex; justify-content:space-between; }
+    li.completed { text-decoration: line-through; color: gray; }
+ 
